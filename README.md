@@ -1,1 +1,2 @@
 # discoverQatarbrief
+Author: vivana
